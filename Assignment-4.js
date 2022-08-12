@@ -45,7 +45,7 @@ function oilPrice(diesel, petrol, octane) {
   
     return totalCost;
   }
-    return "Error: It's accept must be three valid Numbers."
+    return "Error: It's accept must be three valid Numbers.";
 }
 
 
